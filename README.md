@@ -4,6 +4,12 @@ In this paper we consider Thompson Sampling (TS) for combinatorial semi-bandits.
 
 ## Simple pathological sets considered 
 
-
+![](Sets_of_interest.png)
 
 ## Numerical results
+
+![](First_time_optimal_play.png)
+
+![](Expected_time_play.png)
+
+![](Comparison.png)
